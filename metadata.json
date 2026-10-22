@@ -1,0 +1,6 @@
+{
+  "name": "Carewell Community Hospital",
+  "description": "Fictional healthcare website demo showcasing departments, doctor directory, facilities, and interactive appointment enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
